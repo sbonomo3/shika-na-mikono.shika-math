@@ -1,0 +1,217 @@
+\contentsline {chapter}{\numberline {1}About This Book}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}General Advice for Math Teachers}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Assessment}{8}{section.2.1}
+\contentsline {section}{\numberline {2.2}Time, Time, Time}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}Board Work}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Group Work}{9}{section.2.4}
+\contentsline {section}{\numberline {2.5}Homework}{9}{section.2.5}
+\contentsline {section}{\numberline {2.6}Critical Thinking}{9}{section.2.6}
+\contentsline {chapter}{\numberline {3}Challenges Facing Math Teachers and Strategies for Success}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Actual Teaching Part}{11}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Language Barriers}{11}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Slow learners / Unmotivated students}{12}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Ongoing assessment}{12}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Class size / management}{13}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Teaching methodology}{13}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Teaching towards the test}{14}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.7}USA/TZ different learning methods (GCF, LCM, etc.)}{14}{subsection.3.1.7}
+\contentsline {subsection}{\numberline {3.1.8}Prepping for NECTA exam}{15}{subsection.3.1.8}
+\contentsline {subsection}{\numberline {3.1.9}What to do when everyone fails}{15}{subsection.3.1.9}
+\contentsline {section}{\numberline {3.2}Creating a Positive Math Culture}{16}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Students don't like math / Math is hard / Ugonjwa wa taifa}{16}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Older students have given up on math (Form III, IV)}{18}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Math isn't useful / Don't use math in real life}{18}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Girls can't do math}{19}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Teachers give up / No motivation for math teachers}{19}{subsection.3.2.5}
+\contentsline {chapter}{\numberline {4}Hands-On Tools from Locally Available Materials}{20}{chapter.4}
+\contentsline {section}{\numberline {4.1}Accounts}{20}{section.4.1}
+\contentsline {section}{\numberline {4.2}Cartesian Plane}{20}{section.4.2}
+\contentsline {section}{\numberline {4.3}Circles}{21}{section.4.3}
+\contentsline {section}{\numberline {4.4}Clinometer}{21}{section.4.4}
+\contentsline {section}{\numberline {4.5}Compass}{22}{section.4.5}
+\contentsline {section}{\numberline {4.6}Dice}{22}{section.4.6}
+\contentsline {section}{\numberline {4.7}Dominoes}{22}{section.4.7}
+\contentsline {section}{\numberline {4.8}Flash Cards}{22}{section.4.8}
+\contentsline {section}{\numberline {4.9}Fractions and Decimals}{23}{section.4.9}
+\contentsline {section}{\numberline {4.10}Geoboard}{23}{section.4.10}
+\contentsline {section}{\numberline {4.11}Globe}{24}{section.4.11}
+\contentsline {section}{\numberline {4.12}Number Line}{24}{section.4.12}
+\contentsline {section}{\numberline {4.13}Protractor}{24}{section.4.13}
+\contentsline {section}{\numberline {4.14}Spinners}{25}{section.4.14}
+\contentsline {section}{\numberline {4.15}Three-Dimensional Objects}{25}{section.4.15}
+\contentsline {chapter}{\numberline {5}Form I-IV Topics and Activities}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1}Form I}{27}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Numbers (I)}{27}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Fractions}{27}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Decimals and Percentages}{27}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Units}{28}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Approximations}{28}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}Geometry}{28}{subsection.5.1.6}
+\contentsline {subsection}{\numberline {5.1.7}Algebra}{28}{subsection.5.1.7}
+\contentsline {subsection}{\numberline {5.1.8}Numbers (II)}{28}{subsection.5.1.8}
+\contentsline {subsection}{\numberline {5.1.9}Ratio, Profit and Loss}{29}{subsection.5.1.9}
+\contentsline {subsection}{\numberline {5.1.10}Coordinate Geometry}{29}{subsection.5.1.10}
+\contentsline {subsection}{\numberline {5.1.11}Perimeter and Area}{29}{subsection.5.1.11}
+\contentsline {section}{\numberline {5.2}Form II}{29}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Exponents and Radicals}{29}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Algebra}{29}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Quadratic Equations}{29}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Logarithms}{29}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Congruence}{29}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Similarity}{30}{subsection.5.2.6}
+\contentsline {subsection}{\numberline {5.2.7}Geometrical Transformations}{30}{subsection.5.2.7}
+\contentsline {subsection}{\numberline {5.2.8}Pythagoras Theorem}{30}{subsection.5.2.8}
+\contentsline {subsection}{\numberline {5.2.9}Trigonometry}{30}{subsection.5.2.9}
+\contentsline {subsection}{\numberline {5.2.10}Sets}{30}{subsection.5.2.10}
+\contentsline {subsection}{\numberline {5.2.11}Statistics}{30}{subsection.5.2.11}
+\contentsline {section}{\numberline {5.3}Form III}{30}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Relations}{30}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Functions}{30}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Statistics}{31}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Rates and Variations}{31}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}Sequences and Series}{31}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.6}Circles}{31}{subsection.5.3.6}
+\contentsline {subsection}{\numberline {5.3.7}Earth as a Sphere}{32}{subsection.5.3.7}
+\contentsline {subsection}{\numberline {5.3.8}Accounts}{32}{subsection.5.3.8}
+\contentsline {section}{\numberline {5.4}Form IV}{32}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Coordinate Geometry}{32}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Area and Perimeter}{33}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Three-Dimensional Figures}{33}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Probability}{33}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}Trigonometry}{33}{subsection.5.4.5}
+\contentsline {subsection}{\numberline {5.4.6}Vectors}{34}{subsection.5.4.6}
+\contentsline {subsection}{\numberline {5.4.7}Matrices and Transformations}{34}{subsection.5.4.7}
+\contentsline {subsection}{\numberline {5.4.8}Linear Programming}{34}{subsection.5.4.8}
+\contentsline {chapter}{\numberline {6}Games and Activities for Stimulating Interest in Mathematics}{35}{chapter.6}
+\contentsline {section}{\numberline {6.1}Games}{35}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Jeopardy}{35}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Memory Matching}{36}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Around the World}{36}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}BINGO}{37}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Battleship}{37}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}20 Questions}{38}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}Guess Who?}{38}{subsection.6.1.7}
+\contentsline {subsection}{\numberline {6.1.8}Toka (Number Line)}{39}{subsection.6.1.8}
+\contentsline {subsection}{\numberline {6.1.9}Snap!}{39}{subsection.6.1.9}
+\contentsline {section}{\numberline {6.2}Classroom Activities}{39}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Fractions, Decimals and Percentages}{39}{subsection.6.2.1}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Fruit Fractions}}\mathsurround \z@ $\relax }{39}{section*.2}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Target 100}}\mathsurround \z@ $\relax }{40}{section*.3}
+\contentsline {subsection}{\numberline {6.2.2}Geometry}{40}{subsection.6.2.2}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Estimating Angles}}\mathsurround \z@ $\relax }{40}{section*.4}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Tessellation Investigation}}\mathsurround \z@ $\relax }{41}{section*.5}
+\contentsline {subsection}{\numberline {6.2.3}Algebraic Operations}{41}{subsection.6.2.3}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Inverse Operations}}\mathsurround \z@ $\relax }{41}{section*.6}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Simultaneous Equations}}\mathsurround \z@ $\relax }{41}{section*.7}
+\contentsline {subsection}{\numberline {6.2.4}Ratios}{42}{subsection.6.2.4}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Body Part Ratios}}\mathsurround \z@ $\relax }{42}{section*.8}
+\contentsline {subsection}{\numberline {6.2.5}Coordinate Geometry and Transformations}{42}{subsection.6.2.5}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Coordinate Quadrilaterals}}\mathsurround \z@ $\relax }{42}{section*.9}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Bottle Cap Transformations}}\mathsurround \z@ $\relax }{43}{section*.10}
+\contentsline {subsection}{\numberline {6.2.6}Functions}{43}{subsection.6.2.6}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Discover the Function}}\mathsurround \z@ $\relax }{43}{section*.11}
+\contentsline {subsection}{\numberline {6.2.7}Sequences and Series}{44}{subsection.6.2.7}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Sequence Steppers}}\mathsurround \z@ $\relax }{44}{section*.12}
+\contentsline {subsection}{\numberline {6.2.8}Volume and Surface Area}{45}{subsection.6.2.8}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {3-D Design Challenge}}\mathsurround \z@ $\relax }{45}{section*.13}
+\contentsline {subsection}{\numberline {6.2.9}Probability and Statistics}{45}{subsection.6.2.9}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Probability Line}}\mathsurround \z@ $\relax }{45}{section*.14}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Left and Right}}\mathsurround \z@ $\relax }{46}{section*.15}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Feely Bag}}\mathsurround \z@ $\relax }{46}{section*.16}
+\contentsline {subsubsection}{\relax $\@@underline {\hbox {Curious Combinations}}\mathsurround \z@ $\relax }{46}{section*.17}
+\contentsline {section}{\numberline {6.3}Stimulating Puzzles}{46}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}SUDOKU}{46}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Magic Squares}{46}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}24 Squares}{47}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Four 4's}{47}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}Make a Century}{48}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}Intriguing Multiplication}{48}{subsection.6.3.6}
+\contentsline {subsection}{\numberline {6.3.7}Fraction Factory}{48}{subsection.6.3.7}
+\contentsline {section}{\numberline {6.4}Brain Teasers and Mind Benders}{49}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Hundreds, Tens and Units}{49}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Roll a Penny (or 100 /= Coin)}{49}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Invert the Triangle}{49}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}Dividing Lines}{49}{subsection.6.4.4}
+\contentsline {subsection}{\numberline {6.4.5}The Ingenious Milkman}{49}{subsection.6.4.5}
+\contentsline {subsection}{\numberline {6.4.6}A Weighing Problem}{50}{subsection.6.4.6}
+\contentsline {subsection}{\numberline {6.4.7}A Question of Balance}{50}{subsection.6.4.7}
+\contentsline {chapter}{\numberline {7}NECTA Exam Format}{51}{chapter.7}
+\contentsline {chapter}{\numberline {8}NECTA Past Problems}{53}{chapter.8}
+\contentsline {section}{\numberline {8.1}Form I}{53}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Numbers, Fractions, Decimals, Approximations}{53}{subsection.8.1.1}
+\contentsline {subsubsection}{Evaluation / BODMAS}{53}{section*.18}
+\contentsline {subsubsection}{GCF, LCM}{53}{section*.19}
+\contentsline {subsubsection}{Integers}{54}{section*.20}
+\contentsline {subsubsection}{Recurring Decimals}{54}{section*.21}
+\contentsline {subsubsection}{Word Problems}{54}{section*.22}
+\contentsline {subsubsection}{Approximations}{55}{section*.23}
+\contentsline {subsection}{\numberline {8.1.2}Geometry}{55}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.3}Algebra}{56}{subsection.8.1.3}
+\contentsline {subsection}{\numberline {8.1.4}Ratio, Profit and Loss}{56}{subsection.8.1.4}
+\contentsline {subsubsection}{Ratio}{56}{section*.24}
+\contentsline {subsubsection}{Profit and Loss}{57}{section*.25}
+\contentsline {subsubsection}{Simple Interest}{57}{section*.26}
+\contentsline {subsection}{\numberline {8.1.5}Coordinate Geometry}{57}{subsection.8.1.5}
+\contentsline {subsection}{\numberline {8.1.6}Perimeter and Area}{57}{subsection.8.1.6}
+\contentsline {section}{\numberline {8.2}Form II}{57}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Exponents}{57}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Radicals}{58}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Algebra}{59}{subsection.8.2.3}
+\contentsline {subsubsection}{Simultaneous Equations}{59}{section*.27}
+\contentsline {subsubsection}{Quadratic Simultaneous Equations}{60}{section*.28}
+\contentsline {subsubsection}{Inequalities}{60}{section*.29}
+\contentsline {subsubsection}{Word Problems}{60}{section*.30}
+\contentsline {subsubsection}{Binary Operations}{61}{section*.31}
+\contentsline {subsubsection}{Fractions in Algebraic Expressions}{61}{section*.32}
+\contentsline {subsubsection}{Changing the Subject of an Expression}{62}{section*.33}
+\contentsline {subsection}{\numberline {8.2.4}Quadratic Equations}{62}{subsection.8.2.4}
+\contentsline {subsubsection}{Factorization}{62}{section*.34}
+\contentsline {subsubsection}{Completing the Square}{63}{section*.35}
+\contentsline {subsubsection}{Simplifying / Finding Roots}{63}{section*.36}
+\contentsline {subsubsection}{Geometrical Problems}{64}{section*.37}
+\contentsline {subsection}{\numberline {8.2.5}Logarithms}{64}{subsection.8.2.5}
+\contentsline {subsection}{\numberline {8.2.6}Similarity / Congruence}{66}{subsection.8.2.6}
+\contentsline {subsection}{\numberline {8.2.7}Geometrical Transformations}{69}{subsection.8.2.7}
+\contentsline {subsection}{\numberline {8.2.8}Pythagoras Theorem}{69}{subsection.8.2.8}
+\contentsline {subsection}{\numberline {8.2.9}Trigonometry}{69}{subsection.8.2.9}
+\contentsline {subsection}{\numberline {8.2.10}Sets}{69}{subsection.8.2.10}
+\contentsline {subsection}{\numberline {8.2.11}Statistics}{72}{subsection.8.2.11}
+\contentsline {section}{\numberline {8.3}Form III}{72}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Relations / Functions}{72}{subsection.8.3.1}
+\contentsline {subsubsection}{Graphs, Domain, Range}{72}{section*.38}
+\contentsline {subsubsection}{Inverse Functions}{74}{section*.39}
+\contentsline {subsubsection}{Maximum, Minimum Values}{75}{section*.40}
+\contentsline {subsection}{\numberline {8.3.2}Statistics}{75}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}Rates and Variations}{80}{subsection.8.3.3}
+\contentsline {subsubsection}{Variations}{80}{section*.41}
+\contentsline {subsubsection}{Rates}{81}{section*.42}
+\contentsline {subsection}{\numberline {8.3.4}Sequences and Series}{82}{subsection.8.3.4}
+\contentsline {subsubsection}{Sequences}{82}{section*.43}
+\contentsline {subsubsection}{Arithmetic Progressions}{82}{section*.44}
+\contentsline {subsubsection}{Geometric Progressions}{83}{section*.45}
+\contentsline {subsubsection}{AP / GP Combined}{83}{section*.46}
+\contentsline {subsubsection}{Interest}{84}{section*.47}
+\contentsline {subsection}{\numberline {8.3.5}Circles}{84}{subsection.8.3.5}
+\contentsline {subsection}{\numberline {8.3.6}Earth as a Sphere}{89}{subsection.8.3.6}
+\contentsline {subsection}{\numberline {8.3.7}Accounts}{90}{subsection.8.3.7}
+\contentsline {section}{\numberline {8.4}Form IV}{92}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Coordinate Geometry}{92}{subsection.8.4.1}
+\contentsline {subsubsection}{Slope / Equation of a Line}{92}{section*.48}
+\contentsline {subsubsection}{Midpoint}{92}{section*.49}
+\contentsline {subsubsection}{Distance Between Two Points}{93}{section*.50}
+\contentsline {subsubsection}{Parallel / Perpendicular Lines}{93}{section*.51}
+\contentsline {subsection}{\numberline {8.4.2}Area and Perimeter}{94}{subsection.8.4.2}
+\contentsline {subsection}{\numberline {8.4.3}Three-Dimensional Figures}{95}{subsection.8.4.3}
+\contentsline {subsection}{\numberline {8.4.4}Probability}{98}{subsection.8.4.4}
+\contentsline {subsection}{\numberline {8.4.5}Trigonometry}{102}{subsection.8.4.5}
+\contentsline {subsection}{\numberline {8.4.6}Vectors}{105}{subsection.8.4.6}
+\contentsline {subsection}{\numberline {8.4.7}Matrices}{106}{subsection.8.4.7}
+\contentsline {subsection}{\numberline {8.4.8}Transformations}{108}{subsection.8.4.8}
+\contentsline {subsubsection}{Enlargement}{108}{section*.52}
+\contentsline {subsubsection}{Translation}{109}{section*.53}
+\contentsline {subsubsection}{Reflection}{109}{section*.54}
+\contentsline {subsubsection}{Rotation}{109}{section*.55}
+\contentsline {subsubsection}{Combined Transformations}{110}{section*.56}
+\contentsline {subsubsection}{Linear Transformations}{110}{section*.57}
+\contentsline {subsection}{\numberline {8.4.9}Linear Programming}{111}{subsection.8.4.9}
+\contentsline {chapter}{\numberline {9}Glossary of Math Terms in Kiswahili}{114}{chapter.9}

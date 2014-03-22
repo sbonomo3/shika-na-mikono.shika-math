@@ -1,0 +1,277 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2013.5.12)  10 JUL 2013 09:04
+entering extended mode
+**title.tex
+("C:\Users\Timo\Documents\LaTeX\Math Manual\tex\title.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--4
+[] 
+ []
+
+! Undefined control sequence.
+<argument> {\Huge 
+                  Teaching Mathematics in Tanzania}
+l.5 ...c{{\Huge Teaching Mathematics in Tanzania}}
+                                                  \\[0.4cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (46.96085pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/sc/10 Teaching 
+ []
+
+
+Overfull \hbox (31.17754pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/sc/10 Math- 
+ []
+
+
+Overfull \hbox (9.35548pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/sc/10 e- 
+ []
+
+
+Overfull \hbox (22.62207pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/sc/10 mat- 
+ []
+
+
+Overfull \hbox (13.51103pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/sc/10 ics 
+ []
+
+
+Overfull \hbox (9.15552pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/sc/10 in 
+ []
+
+
+Overfull \hbox (23.03041pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/sc/10 Tan- 
+ []
+
+
+Overfull \hbox (14.93326pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/sc/10 za- 
+ []
+
+
+Overfull \hbox (15.28883pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/m/sc/10 nia 
+ []
+
+! Undefined control sequence.
+<argument> {\huge 
+                  Version 2.1 TZ}
+l.6 	\textbf{{\huge Version 2.1 TZ}}
+                                    \\[1.5cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (37.6123pt too wide) in paragraph at lines 6--6
+ []\OT1/cmr/bx/n/10 Version 
+ []
+
+
+Overfull \hbox (14.69437pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 2.1 
+ []
+
+
+Overfull \hbox (15.0277pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/bx/n/10 TZ 
+ []
+
+! Undefined control sequence.
+l.7 	\HRule
+           \\[0.4cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 	\HRule\\
+             [0.4cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<argument> {\Large 
+                   Mathematics Teaching Resource Manual}
+l.8 ...arge Mathematics Teaching Resource Manual}}
+                                                  \\[0.4cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (65.3329pt too wide) in paragraph at lines 8--8
+ []\OT1/cmr/m/sc/10 Mathematics 
+ []
+
+
+Overfull \hbox (35.172pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 Teach- 
+ []
+
+
+Overfull \hbox (15.56659pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 ing 
+ []
+
+
+Overfull \hbox (17.35541pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 Re- 
+ []
+
+
+Overfull \hbox (34.3554pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 source 
+ []
+
+
+Overfull \hbox (25.93315pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 Man- 
+ []
+
+
+Overfull \hbox (17.39993pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/sc/10 ual 
+ []
+
+! Undefined control sequence.
+<argument> {\Large 
+                   Tanzania}
+l.9 	\textsc{{\Large Tanzania}}
+                               \\[0.4cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (45.69702pt too wide) in paragraph at lines 9--9
+ []\OT1/cmr/m/sc/10 Tanzania 
+ []
+
+! Undefined control sequence.
+l.10 	\HRule
+            \\[0.5cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 	\HRule\\
+              [0.5cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--15
+[] 
+ []
+
+! Undefined control sequence.
+l.16 	{\large
+              \today}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.16 	{\large \today
+                    }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> title.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 16 strings out of 495285
+ 291 string characters out of 3180397
+ 46037 words of memory out of 3000000
+ 3314 multiletter control sequences out of 15000+200000
+ 4249 words of font info for 16 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 13i,1n,10p,92b,121s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
